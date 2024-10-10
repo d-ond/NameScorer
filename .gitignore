@@ -1,0 +1,22 @@
+# Visual Studio-specific files
+.vscode/
+*.vs/
+*.user
+*.suo
+
+# Build results
+/bin/
+/obj/
+
+# NuGet packages
+*.nupkg
+
+# Debug and log files
+*.log
+
+# Ignore Visual Studio's backup files
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.userprefs
